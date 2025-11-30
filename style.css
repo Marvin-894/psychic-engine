@@ -1,0 +1,77 @@
+/* Usamos Roboto, similar a la fuente Gotham de Roblox */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ECECEC; /* Un gris claro como fondo de pantalla */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.calendario-roblox {
+    background-color: #FFFFFF; /* Fondo blanco para el contenedor principal */
+    border: 5px solid #232128; /* Borde oscuro y grueso */
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 10px 10px 0px #00A2FF; /* Sombra vibrante, color Roblox Blue */
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+}
+
+h1 {
+    color: #FF0000; /* Rojo vibrante */
+    font-size: 2.2em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 0px #000000;
+}
+
+.tarjeta-dia {
+    background-color: #00A2FF; /* Azul de Roblox para la tarjeta del día */
+    color: #FFFFFF;
+    padding: 20px;
+    border-radius: 15px;
+    border: 3px solid #232128;
+}
+
+#dia-actual {
+    font-size: 1.5em;
+    background-color: #FFC000; /* Amarillo/Dorado para resaltar la fecha */
+    color: #232128;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.contenedor-contenido {
+    background-color: #FFFFFF;
+    color: #232128;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+h3 {
+    color: #008800; /* Un color verde brillante */
+    margin-top: 10px;
+    border-bottom: 2px solid #EEE;
+    padding-bottom: 5px;
+}
+
+.frase, .leccion {
+    font-size: 1.1em;
+    line-height: 1.4;
+    margin-bottom: 15px;
+}
+
+.banner-roblox {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #FF66CC; /* Rosa vibrante */
+    color: #232128;
+    font-weight: bold;
+    font-size: 1.2em;
+    border-radius: 8px;
+    border: 2px dashed #FFFFFF;
+}
