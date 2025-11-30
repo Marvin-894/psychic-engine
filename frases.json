@@ -156,14 +156,11 @@
     "leccion": "Tener **recuerdos felices** te da fuerza para el año que viene. ¡Qué gran forma de terminar el año!"
   },
 
-  /* -------------------------------------------------- */
-  /* AÑO 2026 (Bisiesto)                  */
-  /* -------------------------------------------------- */
-
+        
   {
-    "dia": 101,
-    "frase": "¡**Feliz Año Nuevo**! Hoy es el mejor día para empezar cualquier cosa.",
-    "leccion": "Cada día es un nuevo comienzo. ¡Hoy puedes ser la **mejor versión de ti**!"
+    "dia": 101
+    "frase": "¡**Feliz Año Nuevo**! Hoy es el mejor día para empezar cualquier cosa."
+    "leccion": "Tener **recuerdos felices** te da fuerza para el año que viene. ¡Qué gran forma de terminar el año!"
   },
   {
     "dia": 102,
