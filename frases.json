@@ -2,21 +2,729 @@
   {
     "dia": 1,
     "frase": "¡El día uno es para **empezar algo nuevo**! Si fallas, ¡vuelve a intentarlo!",
-    "leccion": "La **perseverancia** es clave. En los juegos de Roblox, si tu personaje pierde, siempre reaparece para seguir jugando. ¡Tú también!"
+    "leccion": "La **perseverancia** es clave. Como en el tenis, si la pelota se sale, te preparas para el siguiente punto. ¡Nunca te rindas!"
   },
   {
     "dia": 2,
     "frase": "Cada paso, por pequeño que sea, te acerca a tu meta.",
-    "leccion": "En programación, un **código** se hace línea por línea. En la vida, los **grandes logros** se construyen día a día."
+    "leccion": "Los **grandes logros** se construyen poquito a poco. Si quieres construir un castillo de bloques, ¡empiezas con un solo bloque!"
   },
   {
     "dia": 3,
     "frase": "**Escucha con atención** para aprender. Los mejores jugadores observan antes de actuar.",
-    "leccion": "La **escucha activa** nos ayuda a entender las reglas y a respetar a los demás. Es como leer las instrucciones de un juego nuevo."
+    "leccion": "La **escucha activa** nos ayuda a entender las reglas y a respetar a los demás. Es un superpoder de la inteligencia emocional."
   },
   {
     "dia": 4,
     "frase": "¡Tu **imaginación** es tu superpoder! Úsala para crear mundos increíbles.",
-    "leccion": "Roblox Studio te permite construir lo que sueñas. En la vida, si puedes **imaginar**lo, puedes **esforzarte** por lograrlo."
-  }
-]
+    "leccion": "Si puedes imaginar algo bueno, puedes **esforzarte** por lograrlo. La imaginación es el primer paso para la felicidad."
+  },
+  {
+    "dia": 5,
+    "frase": "**Organizar** tus juguetes y tus ideas te ayuda a no sentirte abrumado.",
+    "leccion": "Antes de jugar, haz un **plan**. Ordenar tu espacio también ordena tu mente."
+  },
+  {
+    "dia": 6,
+    "frase": "Un **error** no es un fracaso, es un desafío. ¡Busca la solución!",
+    "leccion": "Cada vez que te equivocas, tu cerebro aprende algo. **Aprender de los errores** te hace más inteligente, no menos."
+  },
+  {
+    "dia": 7,
+    "frase": "**Pide ayuda** cuando la necesites. ¡Es de valientes!",
+    "leccion": "Nadie tiene que saberlo todo. Yo (Brian) pido ayuda con la tecnología. Tú puedes pedir ayuda a mamá (Juliana) o a mí."
+  },
+  {
+    "dia": 8,
+    "frase": "El **trabajo en equipo** hace que la vida sea más divertida y fácil.",
+    "leccion": "En la casa, si todos ayudamos, terminamos más rápido. **Colaborar** es mejor que hacerlo solo."
+  },
+  {
+    "dia": 9,
+    "frase": "La **rapidez** está bien, pero hacer las cosas **bien** es mejor.",
+    "leccion": "Haz las cosas con calma y orden. **La calidad** de lo que haces te hace sentir orgulloso."
+  },
+  {
+    "dia": 10,
+    "frase": "La **curiosidad** te enseña cosas increíbles.",
+    "leccion": "Siempre pregunta '¿por qué?'. Si te interesa la **tecnología** o cualquier cosa, la curiosidad es la llave para aprender."
+  },
+  {
+    "dia": 11,
+    "frase": "**Descansar** es como recargar tu batería interna.",
+    "leccion": "Si juegas mucho, te cansas. Si duermes o descansas un rato, tu **cuerpo y tu mente** vuelven con más energía para jugar mejor."
+  },
+  {
+    "dia": 12,
+    "frase": "La **empatía** es ver el mundo con los ojos de otro.",
+    "leccion": "Piensa: '¿Cómo se siente mi amigo ahora?'. Ser **compasivo** hace que los demás quieran estar contigo."
+  },
+  {
+    "dia": 13,
+    "frase": "Lo **sencillo** es a veces lo más bonito y fácil de entender.",
+    "leccion": "No necesitas hacer las cosas complicadas. **La claridad** al hablar o al dibujar es un superpoder."
+  },
+  {
+    "dia": 14,
+    "frase": "Sé **flexible**. Está bien cambiar de opinión o de plan.",
+    "leccion": "A veces, el primer plan no funciona. No pasa nada por **cambiar de dirección** si eso te lleva a un lugar mejor."
+  },
+  {
+    "dia": 15,
+    "frase": "La **disciplina** es hacer algo aunque no tengas ganas.",
+    "leccion": "Practicar **tenis** te hace mejor. **La constancia** en tus tareas te hará libre para jugar después."
+  },
+  {
+    "dia": 16,
+    "frase": "**Comparte** tus juguetes y tus ideas. Así se multiplican.",
+    "leccion": "Cuando compartes lo que sabes, ayudas a otros (como a tu hermano o hermana) y tú te vuelves más sabio."
+  },
+  {
+    "dia": 17,
+    "frase": "No te compares. Solo **compárate** con la versión de ti mismo de ayer.",
+    "leccion": "El progreso es personal. Solo importa si **tú eres mejor** hoy que ayer. ¡Esa es tu única competencia!"
+  },
+  {
+    "dia": 18,
+    "frase": "La **paciencia** es una espera tranquila, sabiendo que las cosas buenas tardan.",
+    "leccion": "Si quieres un pastel, hay que esperar que se hornee. **Ser paciente** te evita enojos y frustraciones innecesarias."
+  },
+  {
+    "dia": 19,
+    "frase": "Cuando alguien te da un **consejo**, es un regalo. ¡Aprovéchalo!",
+    "leccion": "Escucha las críticas constructivas. **Aceptar la ayuda** te hace crecer más rápido."
+  },
+  {
+    "dia": 20,
+    "frase": "Sé **seguro**. Protege tus cosas y a tu familia.",
+    "leccion": "Aprender a cuidar de los demás y de ti mismo te da **tranquilidad**."
+  },
+  {
+    "dia": 21,
+    "frase": "Crea una **base sólida**. Los buenos cimientos hacen que la torre no se caiga.",
+    "leccion": "Asegúrate de entender lo básico de una tarea. **Aprender bien** desde el principio es la clave del éxito."
+  },
+  {
+    "dia": 22,
+    "frase": "Tu **cuerpo** es tu máquina más importante. ¡Cuídalo comiendo bien y moviéndote!",
+    "leccion": "Hacer deporte (como jugar **tenis**) y comer verduras hace que tu cerebro funcione al 100%."
+  },
+  {
+    "dia": 23,
+    "frase": "Anota tus ideas para que no se te olviden.",
+    "leccion": "Tener un **diario** o una lista de tareas te ayuda a liberar espacio en la cabeza para pensar en cosas nuevas y divertidas."
+  },
+  {
+    "dia": 24,
+    "frase": "Hoy es un buen día para **arreglar** lo que ya hiciste.",
+    "leccion": "Siempre puedes **mejorar** una tarea vieja. Volver a mirar lo que hiciste es una forma de ser más inteligente."
+  },
+  {
+    "dia": 25,
+    "frase": "**Experimenta** y prueba cosas nuevas sin miedo.",
+    "leccion": "No tengas miedo de explorar. Las personas que **aprenden cosas nuevas** son las que cambian el mundo."
+  },
+  {
+    "dia": 26,
+    "frase": "Aprende a encontrar la **causa** de un problema, no solo a taparlo.",
+    "leccion": "Si algo se rompe, encuentra por qué se rompió. **Solucionar la raíz** evita que el problema regrese."
+  },
+  {
+    "dia": 27,
+    "frase": "Las cosas buenas funcionan **donde sea**.",
+    "leccion": "Tu buena actitud debe funcionar con tus amigos, en la escuela y en casa. **Sé consistente** en tu comportamiento."
+  },
+  {
+    "dia": 28,
+    "frase": "La **comunicación** efectiva es hablar claro y con cariño.",
+    "leccion": "Aprende a explicar tus sentimientos a mí (Brian) y a mamá (Juliana). Hablar ayuda a solucionar todo."
+  },
+  {
+    "dia": 29,
+    "frase": "El **viaje** es más importante que el destino. ¡Disfruta el proceso!",
+    "leccion": "No te obsesiones con el final, disfruta la aventura de hoy. **La felicidad está en el presente**."
+  },
+  {
+    "dia": 30,
+    "frase": "**¡Fin de mes!** Hoy es día de revisar y celebrar tus logros.",
+    "leccion": "Tómate un momento para ver todo lo que aprendiste en el mes. **Sé agradecido** por lo que tienes y por lo que has hecho."
+  },
+
+  {
+    "dia": 31,
+    "frase": "El **último día** del año. Piensa en algo increíble que lograste.",
+    "leccion": "Tener **recuerdos felices** te da fuerza para el año que viene. ¡Qué gran forma de terminar el año!"
+  },
+
+  /* -------------------------------------------------- */
+  /* AÑO 2026 (Bisiesto)                  */
+  /* -------------------------------------------------- */
+
+  {
+    "dia": 101,
+    "frase": "¡**Feliz Año Nuevo**! Hoy es el mejor día para empezar cualquier cosa.",
+    "leccion": "Cada día es un nuevo comienzo. ¡Hoy puedes ser la **mejor versión de ti**!"
+  },
+  {
+    "dia": 102,
+    "frase": "Sé **valiente** y acepta un nuevo desafío.",
+    "leccion": "El miedo solo es un sentimiento. **Tú eres más grande** que el miedo. ¡Atrévete a probar!"
+  },
+  {
+    "dia": 103,
+    "frase": "La **verdad** es siempre el camino más fácil y seguro.",
+    "leccion": "Decir la verdad te hace sentir **tranquilo**. La honestidad es un súper-poder de la amistad."
+  },
+  {
+    "dia": 104,
+    "frase": "**Controlar tus emociones** es como ser el capitán de un barco.",
+    "leccion": "Cuando estés enojado, respira tres veces. **Tú decides** cómo quieres sentirte, no el enojo."
+  },
+  {
+    "dia": 105,
+    "frase": "**Perdonar** es darle un regalo a tu corazón.",
+    "leccion": "Si alguien se equivoca contigo, dale otra oportunidad. **Dejar ir el rencor** te hace feliz."
+  },
+  {
+    "dia": 106,
+    "frase": "Sé **responsable** con tus promesas y tus cosas.",
+    "leccion": "Si prometes algo, cúmplelo. **La responsabilidad** hace que los demás confíen en ti."
+  },
+  {
+    "dia": 107,
+    "frase": "Hoy es un día para **ayudar a alguien** sin esperar nada a cambio.",
+    "leccion": "Ser **generoso** te hace feliz a ti y a los demás. ¡Dar es más divertido que recibir!"
+  },
+  {
+    "dia": 108,
+    "frase": "**Sé tú mismo**. No tienes que ser como los demás.",
+    "leccion": "Eres único y especial. **Tu originalidad** es tu mayor talento."
+  },
+  {
+    "dia": 109,
+    "frase": "La **alegría** es contagiosa. ¡Compártela!",
+    "leccion": "Busca motivos para sonreír. **La felicidad** es una elección que puedes hacer todos los días."
+  },
+  {
+    "dia": 110,
+    "frase": "**Agradece** por tres cosas buenas que tienes hoy.",
+    "leccion": "La **gratitud** te enseña a valorar lo que tienes. ¡Gracias por mis hijos y por Juliana!"
+  },
+  {
+    "dia": 111,
+    "frase": "Sé **amable** con todos, incluso con los que no conoces.",
+    "leccion": "Una pequeña acción amable puede cambiar el día de alguien. **La bondad** es un boomerang que vuelve a ti."
+  },
+  {
+    "dia": 112,
+    "frase": "Aprende a **pedir disculpas** cuando te equivocas. Es un acto de grandeza.",
+    "leccion": "Decir 'lo siento' con sinceridad es muy difícil. **La humildad** es la fuerza de los grandes."
+  },
+  {
+    "dia": 113,
+    "frase": "Tu **familia** es tu equipo más importante. ¡Cuídala!",
+    "leccion": "Tus hermanos, Juliana, y yo (Brian) siempre estamos aquí para ti. **El amor familiar** es la base de todo."
+  },
+  {
+    "dia": 114,
+    "frase": "Sé **optimista**. Mira el lado bueno de las cosas, incluso si fallas.",
+    "leccion": "Siempre hay algo bueno en cada día. **La esperanza** te da energía para seguir."
+  },
+  {
+    "dia": 115,
+    "frase": "**Respeta** las reglas. Están ahí para cuidarte.",
+    "leccion": "Las reglas en el deporte (tenis) o en la vida te ayudan a jugar limpio y seguro."
+  },
+  {
+    "dia": 116,
+    "frase": "Hoy, haz algo que te dé un poco de **miedo**.",
+    "leccion": "**Superar el miedo** te hace más fuerte. ¡El valor no es la ausencia de miedo, sino enfrentarlo!"
+  },
+  {
+    "dia": 117,
+    "frase": "La **paciencia** es saber esperar sin enojarse.",
+    "leccion": "Las cosas importantes toman tiempo. **Practicar la espera** mejora tu inteligencia emocional."
+  },
+  {
+    "dia": 118,
+    "frase": "Aprende a **compartir** tus sentimientos. No los guardes.",
+    "leccion": "Si estás triste o enojado, habla con un adulto. **Expresar tus emociones** es saludable."
+  },
+  {
+    "dia": 119,
+    "frase": "El **aburrimiento** es la oportunidad perfecta para ser creativo.",
+    "leccion": "Cuando no sepas qué hacer, ¡inventa algo! **La creatividad** nace de la calma."
+  },
+  {
+    "dia": 120,
+    "frase": "Sé **agradecido** por tu salud. ¡Corre, salta y juega!",
+    "leccion": "Cuidar tu cuerpo es la mejor forma de **agradecer** que puedes hacer todas esas cosas maravillosas."
+  },
+  {
+    "dia": 121,
+    "frase": "Recuerda que **eres capaz** de hacer cosas difíciles.",
+    "leccion": "Confía en ti mismo. **La autoestima** es saber que puedes superar cualquier obstáculo."
+  },
+  {
+    "dia": 122,
+    "frase": "Si algo no funciona, intenta **tres veces más**.",
+    "leccion": "La **tenacidad** te diferencia de los demás. Tres intentos es la regla de un campeón."
+  },
+  {
+    "dia": 123,
+    "frase": "La **bondad** es una fuerza mágica.",
+    "leccion": "Piensa: ¿qué puedo hacer para hacer sonreír a alguien hoy? **Hacer el bien** te hace sentir bien."
+  },
+  {
+    "dia": 124,
+    "frase": "Hoy, sé un **modelo** para tus amigos y tu hermano.",
+    "leccion": "Tus acciones enseñan más que tus palabras. **Sé un buen ejemplo** para los demás."
+  },
+  {
+    "dia": 125,
+    "frase": "**Felicita** a un amigo por algo que hizo bien.",
+    "leccion": "Celebrar los logros de otros es señal de **gran corazón** y de seguridad en ti mismo."
+  },
+  {
+    "dia": 126,
+    "frase": "Aprende a **controlar tus impulsos** como un ninja.",
+    "leccion": "No tomes decisiones cuando estés muy enojado o muy contento. **Piensa antes de actuar**."
+  },
+  {
+    "dia": 127,
+    "frase": "La **amistad** es un tesoro. ¡Cuida a tus amigos!",
+    "leccion": "Ser un buen amigo significa apoyar, escuchar y ser leal. **La lealtad** es oro puro."
+  },
+  {
+    "dia": 128,
+    "frase": "Hoy, **descubre** algo nuevo en tu casa o en tu calle.",
+    "leccion": "El mundo está lleno de maravillas. **Mantén tus ojos abiertos** para ver la magia de lo cotidiano."
+  },
+  {
+    "dia": 129,
+    "frase": "La **tolerancia** es aceptar que todos somos diferentes.",
+    "leccion": "No todos piensan como tú, y eso está bien. **Aceptar las diferencias** te hace más inteligente."
+  },
+  {
+    "dia": 130,
+    "frase": "**¡Fin de mes!** Hoy es día de revisar tus tareas y de un gran abrazo.",
+    "leccion": "El **afecto** de tu familia te da fuerza. ¡Pide y da un abrazo!"
+  },
+
+  {
+    "dia": 201,
+    "frase": "Enero (2026) ya pasó. ¡Hoy empezamos el segundo mes del año!",
+    "leccion": "No te aferres al pasado. **Mira siempre hacia adelante** con emoción y nuevos propósitos."
+  },
+  {
+    "dia": 202,
+    "frase": "Sé **creativo** con tu forma de resolver problemas.",
+    "leccion": "Busca **soluciones originales**. Si una puerta está cerrada, ¿puedes entrar por la ventana?"
+  },
+  {
+    "dia": 203,
+    "frase": "Recuerda que tienes **gente que te ama** incondicionalmente.",
+    "leccion": "El amor de tu familia (incluyendo a Juliana) es tu **refugio seguro**. Abrázalos."
+  },
+  {
+    "dia": 204,
+    "frase": "**No te rindas** si la primera vez no sale perfecto.",
+    "leccion": "Los grandes inventores fallaron muchas veces antes de triunfar. **La persistencia** es la clave del éxito."
+  },
+  {
+    "dia": 205,
+    "frase": "Hoy, **concéntrate** solo en una cosa a la vez.",
+    "leccion": "Hacer una sola tarea te ayuda a hacerla mejor y a **disfrutarla más**. ¡Concentración de Pro Player!"
+  },
+  {
+    "dia": 206,
+    "frase": "La **crítica** es una forma de que te ayuden a mejorar.",
+    "leccion": "No tomes los comentarios como un ataque. **Escucha con madurez** y aprende de ellos."
+  },
+  {
+    "dia": 207,
+    "frase": "Aprende a **decir 'no'** cuando algo no te parece correcto o seguro.",
+    "leccion": "Poner **límites** saludables es un acto de amor propio y de inteligencia emocional."
+  },
+  {
+    "dia": 208,
+    "frase": "Tus **palabras** tienen poder. Úsalas para construir, no para destruir.",
+    "leccion": "Piensa bien lo que vas a decir. **Hablar con respeto** construye la paz."
+  },
+  {
+    "dia": 209,
+    "frase": "Cuando estés **triste**, recuerda todas las veces que pudiste sonreír.",
+    "leccion": "Los sentimientos tristes son normales, pero no duran para siempre. **Busca la luz**."
+  },
+  {
+    "dia": 210,
+    "frase": "La **integridad** es hacer lo correcto, incluso cuando nadie te ve.",
+    "leccion": "Sé **honesto** contigo mismo. Tu conciencia es tu mejor guía."
+  },
+  {
+    "dia": 211,
+    "frase": "La **generosidad** de tu tiempo es el mejor regalo que puedes dar.",
+    "leccion": "Pasa tiempo jugando con tu hermano o hermana de 5 y 6 años. **Compartir tu tiempo** es un tesoro."
+  },
+  {
+    "dia": 212,
+    "frase": "Practica **la calma** como un maestro de meditación.",
+    "leccion": "Cuando todo sea un caos, busca tu espacio tranquilo. **La serenidad** te da control."
+  },
+  {
+    "dia": 213,
+    "frase": "**Celebra** tus pequeñas victorias de hoy.",
+    "leccion": "Reconocer tus esfuerzos te motiva. **Date una palmadita** en la espalda por lo que hiciste bien."
+  },
+  {
+    "dia": 214,
+    "frase": "Sé **agradecido** por las personas que te enseñan cosas.",
+    "leccion": "Cada maestro, padre, o amigo es una fuente de conocimiento. **Aprende de todos**."
+  },
+  {
+    "dia": 215,
+    "frase": "La **paciencia** es saber que el resultado no depende de ti, solo tu esfuerzo.",
+    "leccion": "Pon tu mejor esfuerzo y luego **confía** en el proceso. No te desesperes."
+  },
+  {
+    "dia": 216,
+    "frase": "No tengas miedo de **cambiar de rumbo**.",
+    "leccion": "Si algo no te hace feliz, busca una nueva meta. **Tú tienes el control** de tu camino."
+  },
+  {
+    "dia": 217,
+    "frase": "Hoy, sé un **observador** en lugar de un actor.",
+    "leccion": "Mira a tu alrededor. **Observar en silencio** te enseña a entender a los demás."
+  },
+  {
+    "dia": 218,
+    "frase": "La **confianza** es saber que lo vas a lograr.",
+    "leccion": "Cree en tus habilidades y en tu potencial. **La fe en ti mismo** es tu motor."
+  },
+  {
+    "dia": 219,
+    "frase": "La **amistad verdadera** es un apoyo incondicional.",
+    "leccion": "Un buen amigo te quiere por quien eres. **Sé leal y sincero** con tus amigos."
+  },
+  {
+    "dia": 220,
+    "frase": "Siempre **respeta el espacio** y las cosas de los demás.",
+    "leccion": "Pedir permiso es un acto de **madurez**. Respeta la privacidad de tu familia (Juliana)."
+  },
+  {
+    "dia": 221,
+    "frase": "Hoy, **ríete mucho** de ti mismo o de algo divertido.",
+    "leccion": "**El humor** es la mejor medicina. La risa te ayuda a relajarte y a ver las cosas de otra manera."
+  },
+  {
+    "dia": 222,
+    "frase": "El **silencio** es tan importante como el ruido.",
+    "leccion": "Busca momentos de **tranquilidad** para escuchar tus pensamientos. La calma interior te da sabiduría."
+  },
+  {
+    "dia": 223,
+    "frase": "La **bondad** no tiene que ser perfecta, solo sincera.",
+    "leccion": "Un pequeño gesto de cariño vale más que mil palabras. **Sé bueno** con todos los seres vivos."
+  },
+  {
+    "dia": 224,
+    "frase": "Aprende a **aceptar** lo que no puedes cambiar.",
+    "leccion": "Hay cosas que escapan de tu control. **Aceptarlas** te da paz y te permite concentrarte en lo que sí puedes cambiar."
+  },
+  {
+    "dia": 225,
+    "frase": "La **creatividad** es mezclar dos ideas que nunca se han mezclado.",
+    "leccion": "Intenta ver las cosas desde **nuevos ángulos**. Sé original en tus juegos e ideas."
+  },
+  {
+    "dia": 226,
+    "frase": "Usa tus **palabras** para levantar a alguien, nunca para bajarlo.",
+    "leccion": "**El respeto** hacia el prójimo es el espejo de cuánto te respetas a ti mismo."
+  },
+  {
+    "dia": 227,
+    "frase": "Hoy, haz algo que te **desafíe** físicamente.",
+    "leccion": "Hacer ejercicio, como jugar **tenis**, te enseña a **superar el dolor** y a ser más fuerte de mente."
+  },
+  {
+    "dia": 228,
+    "frase": "Los **errores** son los maestros más estrictos, pero los que más te enseñan.",
+    "leccion": "Acepta la lección y no te castigues. **El aprendizaje continuo** es la clave de la vida."
+  },
+  {
+    "dia": 229,
+    "frase": "**Día extra** (bisiesto): ¡Haz algo extraordinario!",
+    "leccion": "Este día solo aparece cada cuatro años. Úsalo para **crear un recuerdo inolvidable** con tu familia."
+  },
+
+  {
+    "dia": 301,
+    "frase": "Marzo. ¡Piensa en un nuevo proyecto emocionante para empezar hoy!",
+    "leccion": "La **motivación** es la gasolina de tu cerebro. Encuentra algo que te apasione."
+  },
+  {
+    "dia": 302,
+    "frase": "La **paciencia** no es solo esperar, es cómo te comportas mientras esperas.",
+    "leccion": "Mantén la **calma** cuando tengas que esperar tu turno en un juego o en la fila."
+  },
+  {
+    "dia": 303,
+    "frase": "Sé **detallista**. Los pequeños detalles hacen la diferencia.",
+    "leccion": "Fíjate en las pequeñas cosas de la vida. **Observar** te hace más inteligente."
+  },
+  {
+    "dia": 304,
+    "frase": "**Recuerda** algo que te hizo feliz la semana pasada.",
+    "leccion": "Traer **recuerdos felices** al presente es una herramienta de inteligencia emocional."
+  },
+  {
+    "dia": 305,
+    "frase": "La **compasión** es sentir el dolor de otro como si fuera el tuyo.",
+    "leccion": "Si un amigo está triste, sé su **apoyo**. Tu bondad será su medicina."
+  },
+  {
+    "dia": 306,
+    "frase": "Aprende a **defender** lo que crees que es correcto.",
+    "leccion": "Ten la **valentía** de hablar, pero hazlo siempre con respeto y argumentos sólidos."
+  },
+  {
+    "dia": 307,
+    "frase": "Sé **consciente** de lo que haces. No actúes en piloto automático.",
+    "leccion": "Presta atención a tus acciones. **Vivir en el presente** te da control sobre tu vida."
+  },
+  {
+    "dia": 308,
+    "frase": "La **amistad** es un espejo. Refleja quién eres.",
+    "leccion": "Elige amigos que te hagan sentir bien. **Las buenas compañías** te ayudan a crecer."
+  },
+  {
+    "dia": 309,
+    "frase": "Sé **responsable** con el planeta. ¡Cuida la naturaleza!",
+    "leccion": "Somos parte de algo más grande. **El cuidado del medio ambiente** es una responsabilidad de todos."
+  },
+  {
+    "dia": 310,
+    "frase": "La **curiosidad** te llevará a lugares increíbles. ¡Explora!",
+    "leccion": "Nunca dejes de aprender. Si te interesa la **tecnología**, sigue leyendo e investigando."
+  },
+  {
+    "dia": 311,
+    "frase": "**Imaginar** es el primer paso para crear.",
+    "leccion": "Si puedes soñar algo, puedes empezar a construirlo. **Cree en tus ideas**."
+  },
+  {
+    "dia": 312,
+    "frase": "La **empatía** es el idioma del corazón.",
+    "leccion": "Intenta entender los sentimientos de Juliana y tus hermanos. **El amor** es la base de todo."
+  },
+  {
+    "dia": 313,
+    "frase": "Hoy, sé **agradecido** por un maestro que te enseñó algo importante.",
+    "leccion": "Reconocer a quien te ayuda a aprender es una gran muestra de **humildad** y gratitud."
+  },
+  {
+    "dia": 314,
+    "frase": "La **tenacidad** es seguir intentando después de muchos errores.",
+    "leccion": "No importa cuántas veces te caigas, importa cuántas veces te **levantas**."
+  },
+  {
+    "dia": 315,
+    "frase": "Practica tu **deporte favorito** (tenis, por ejemplo) y recuerda que la práctica hace al maestro.",
+    "leccion": "**La repetición** es la madre del aprendizaje. Si quieres ser bueno en algo, ¡practica!"
+  },
+  {
+    "dia": 316,
+    "frase": "La **humildad** es reconocer que no lo sabes todo y estar dispuesto a aprender.",
+    "leccion": "Los mejores **líderes** siempre están aprendiendo. Nunca creas que lo sabes todo."
+  },
+  {
+    "dia": 317,
+    "frase": "**Sé organizado** con tu tiempo para que te quede más para jugar.",
+    "leccion": "Hacer un horario te ayuda a ser más eficiente. **Gestionar tu tiempo** es inteligencia emocional aplicada."
+  },
+  {
+    "dia": 318,
+    "frase": "La **paciencia** te ayuda a ver las cosas grandes que están por venir.",
+    "leccion": "No te desesperes por el futuro. **Disfruta el momento** y trabaja en él."
+  },
+  {
+    "dia": 319,
+    "frase": "Cuando te sientas **enojado**, haz una pausa de 10 segundos.",
+    "leccion": "Contar hasta diez te da tiempo para que tu cerebro se calme. **Controlar el enojo** es ser fuerte."
+  },
+  {
+    "dia": 320,
+    "frase": "La **honestidad** te libera de preocupaciones.",
+    "leccion": "Cuando eres honesto, no tienes que recordar mentiras. **La verdad** te hace dormir tranquilo."
+  },
+  {
+    "dia": 321,
+    "frase": "La **gratitud** transforma lo que tienes en suficiente.",
+    "leccion": "Aprecia las pequeñas cosas: tu comida, tus juguetes, tu casa. **Ser agradecido** te hace rico de corazón."
+  },
+  {
+    "dia": 322,
+    "frase": "**Sonríe** más, incluso cuando no tengas ganas.",
+    "leccion": "La sonrisa le dice a tu cerebro que todo está bien. **El optimismo** es un escudo."
+  },
+  {
+    "dia": 323,
+    "frase": "Hoy, **escucha** una canción que te ponga feliz y báilala.",
+    "leccion": "La **música** es una gran herramienta para cambiar tu estado de ánimo. ¡Úsala!"
+  },
+  {
+    "dia": 324,
+    "frase": "Aprende a **perdonarte** a ti mismo por los errores.",
+    "leccion": "Todos nos equivocamos. Lo importante es **aprender** y seguir adelante con un corazón ligero."
+  },
+  {
+    "dia": 325,
+    "frase": "La **confianza** es un músculo. ¡Entreónala!",
+    "leccion": "Cada vez que logras algo, tu confianza crece. **Rétate** a hacer algo difícil."
+  },
+  {
+    "dia": 326,
+    "frase": "La **amistad** es como una planta. Hay que regarla todos los días.",
+    "leccion": "Llama o juega con un amigo hoy. **Cultivar tus relaciones** te hace feliz."
+  },
+  {
+    "dia": 327,
+    "frase": "Sé **responsable** de tus sentimientos. Nadie puede hacerte sentir algo sin tu permiso.",
+    "leccion": "**Tú controlas** tu reacción ante lo que pasa. ¡Ese es el superpoder!"
+  },
+  {
+    "dia": 328,
+    "frase": "La **paciencia** es una espera tranquila, sabiendo que la recompensa es grande.",
+    "leccion": "Si trabajas duro por algo, el tiempo pasará rápido. **La visión a largo plazo** es madurez."
+  },
+  {
+    "dia": 329,
+    "frase": "La **adaptación** es cambiar de plan cuando el viento cambia.",
+    "leccion": "Sé como el agua. **Fluye** con las situaciones y encuentra la mejor salida."
+  },
+  {
+    "dia": 330,
+    "frase": "El **trabajo duro** siempre tiene su recompensa. ¡Sigue esforzándote!",
+    "leccion": "Saber que **te esforzaste al máximo** es la mejor sensación de todas. ¡Celebra tu esfuerzo!"
+  },
+  {
+    "dia": 331,
+    "frase": "Hoy es el día para **limpiar** tu mente y tu espacio.",
+    "leccion": "Un espacio limpio te da **claridad mental**. Deshazte de lo que no necesitas."
+  },
+  {
+    "dia": 401,
+    "frase": "Abril. ¡Un nuevo mes, una nueva oportunidad de ser genial!",
+    "leccion": "No importa lo que pasó ayer. **Hoy es un borrón y cuenta nueva**."
+  },
+  {
+    "dia": 402,
+    "frase": "Aprende a **escuchar** a tu cuerpo cuando te dice que estás cansado.",
+    "leccion": "No te obligues a seguir si estás agotado. **Cuidar de ti** es ser inteligente."
+  },
+  {
+    "dia": 403,
+    "frase": "La **empatía** te permite entender por qué la gente hace lo que hace.",
+    "leccion": "Antes de juzgar, **intenta entender**. Eso te hace un amigo más sabio."
+  },
+  {
+    "dia": 404,
+    "frase": "**Sé positivo**. Un buen pensamiento puede cambiar todo el día.",
+    "leccion": "Tu mente es como un jardín. **Siembra semillas de felicidad** y optimismo."
+  },
+  {
+    "dia": 405,
+    "frase": "La **responsabilidad** es como ser un superhéroe de la vida real.",
+    "leccion": "Cumplir tus deberes sin que te lo recuerden te hace **confiable** y fuerte."
+  },
+  {
+    "dia": 406,
+    "frase": "No te preocupes por el **mañana**. Concéntrate en el **hoy**.",
+    "leccion": "La preocupación te roba el presente. **Vive el momento** con toda tu energía."
+  },
+  {
+    "dia": 407,
+    "frase": "La **honestidad** es un regalo que le das a los demás y a ti mismo.",
+    "leccion": "Di siempre la verdad. **La integridad** es tu armadura."
+  },
+  {
+    "dia": 408,
+    "frase": "**Sonríe** a un extraño. Una sonrisa puede cambiar el día.",
+    "leccion": "La **alegría** es una elección que puedes hacer, incluso si el día está gris."
+  },
+  {
+    "dia": 409,
+    "frase": "Si te **frustras**, recuerda por qué empezaste.",
+    "leccion": "Vuelve a tu **propósito inicial**. Tu meta es más grande que cualquier frustración."
+  },
+  {
+    "dia": 410,
+    "frase": "La **gratitud** es el imán de la felicidad.",
+    "leccion": "Agradece por lo que tienes y **atraerás más cosas buenas** a tu vida."
+  },
+  {
+    "dia": 411,
+    "frase": "Aprende a **disculparte** cuando es necesario. Es un acto de amor.",
+    "leccion": "Pedir perdón sana el corazón de los demás y te da paz a ti. **La humildad** es poder."
+  },
+  {
+    "dia": 412,
+    "frase": "Tu **creatividad** es infinita. ¡No le pongas límites!",
+    "leccion": "Dibuja, inventa, o construye algo nuevo. **Tu imaginación** es el motor del mundo."
+  },
+  {
+    "dia": 413,
+    "frase": "La **paciencia** es una de las virtudes más difíciles y más valiosas.",
+    "leccion": "Practícala en los juegos, en la fila, y en tus tareas. **La calma** te da ventaja."
+  },
+  {
+    "dia": 414,
+    "frase": "El **respeto** es la base de todas las relaciones, incluyendo la tuya.",
+    "leccion": "Respétate a ti mismo y a tu cuerpo. **Trátate con cariño**."
+  },
+  {
+    "dia": 415,
+    "frase": "La **perseverancia** es la clave para dominar el tenis o cualquier cosa.",
+    "leccion": "No dejes de practicar. **El esfuerzo constante** da frutos."
+  },
+  {
+    "dia": 416,
+    "frase": "La **empatía** te enseña a ser un mejor hermano o hermana.",
+    "leccion": "Intenta ver el juego desde la perspectiva de tus hermanos de 5 y 6 años. **Sé considerado**."
+  },
+  {
+    "dia": 417,
+    "frase": "Los **límites** te dan seguridad, como las líneas de la cancha de tenis.",
+    "leccion": "Aprende a decir 'hasta aquí'. **Defender tus límites** te hace fuerte y seguro."
+  },
+  {
+    "dia": 418,
+    "frase": "Si te sientes **triste**, recuerda que el sentimiento va a pasar.",
+    "leccion": "Las emociones son como las nubes. **Vienen y van**. Espera a que pase la nube gris."
+  },
+  {
+    "dia": 419,
+    "frase": "La **familia** es donde aprendes las lecciones más importantes.",
+    "leccion": "Aprecia el tiempo con tus seres queridos (incluyendo Juliana). **Los momentos juntos** son tesoros."
+  },
+  {
+    "dia": 420,
+    "frase": "Hoy, haz una **pausa activa** y muévete.",
+    "leccion": "No te quedes sentado mucho tiempo. **Mover tu cuerpo** te ayuda a pensar mejor."
+  },
+  {
+    "dia": 421,
+    "frase": "Sé **responsable** con tu cuarto y tus cosas.",
+    "leccion": "El **orden externo** ayuda al orden interno. Sé el capitán de tu espacio."
+  },
+  {
+    "dia": 422,
+    "frase": "Aprende a **negociar** y a buscar acuerdos.",
+    "leccion": "Ceder un poco y pedir otro poco. **El diálogo** es la mejor herramienta para resolver conflictos."
+  },
+  {
+    "dia": 423,
+    "frase": "La **disciplina** es una promesa que te haces a ti mismo.",
+    "leccion": "Cuando te propones algo, **sé fiel a ti mismo** y esfuérzate para lograrlo."
+  },
+
